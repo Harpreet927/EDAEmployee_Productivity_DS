@@ -1,6 +1,6 @@
 # Employee Productivity and Satisfaction HR Data 
 
-My name is Harprret Kaur. I am currently a data science fellow at the New York City Data Science Academy.
+My name is Harpreet Kaur. I am currently a data science fellow at the New York City Data Science Academy.
 
 This project is about exploring HR data that dives into the dynamics of the workforce from personal demographics to performance metrics and job details. It helps organizations make data-driven decisions about their workforce. This leads to outcomes that can improve employee engagement and retention, optimizing performance, and effective turnover rates. On the other hand, it can be useful for Employees to gain insight for growth in compensation. Overall, accurate salary predictions are valuable for job seekers, employers, and policy makers as they help in making informed decisions about compensation, budgeting, and career planning.
 
