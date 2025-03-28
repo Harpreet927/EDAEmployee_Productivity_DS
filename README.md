@@ -8,7 +8,8 @@ I approached this dataset by analyzing factors affecting salary predictions and 
 
 The outcome from this data analysis can assist job seekers to understand the potential salary ranges and guide career decisions, negotiation strategies, and job selection. For employers, it can help in setting competitive salaries, planning budgets, and ensuring fairness in compensation. Lastly, it can benefit policy makers in assessing economic conditions, wage inequality, and designing effective labor policies.
 
-## Data: 
+## Links: 
+
 The dataset is retrieved from Kaggle.
 https://www.kaggle.com/datasets/adityaab1407/employee-productivity-and-satisfaction-hr-data/data
 
